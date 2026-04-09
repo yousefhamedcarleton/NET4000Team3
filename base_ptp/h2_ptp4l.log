@@ -1,0 +1,13 @@
+ptp4l[2724413.644]: port 1: INITIALIZING to LISTENING on INIT_COMPLETE
+ptp4l[2724413.644]: port 0: INITIALIZING to LISTENING on INIT_COMPLETE
+ptp4l[2724421.088]: selected local clock 000000.fffe.000002 as best master
+ptp4l[2724421.635]: port 1: new foreign master 000000.fffe.000004-3
+ptp4l[2724425.635]: selected best master clock 000000.fffe.000004
+ptp4l[2724425.635]: foreign master not using PTP timescale
+ptp4l[2724425.635]: port 1: LISTENING to UNCALIBRATED on RS_SLAVE
+ptp4l[2724427.635]: master offset        947 s0 freq   +6319 path delay      2058
+ptp4l[2724428.635]: master offset       -460 s0 freq   +6319 path delay      2504
+ptp4l[2724429.635]: master offset         55 s0 freq   +6319 path delay      2369
+ptp4l[2724430.635]: master offset        229 s0 freq   +6319 path delay      2486
+ptp4l[2724431.636]: master offset      -1307 s0 freq   +6319 path delay      2569
+ptp4l[2724432.636]: master offset        237 s0 freq   +6319 path delay      2569
